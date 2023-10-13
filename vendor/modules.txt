@@ -1,0 +1,3 @@
+# github.com/FabianKramm/package2 v0.0.0-20231013074409-b146ce483285
+## explicit; go 1.21.1
+github.com/FabianKramm/package2/hello
